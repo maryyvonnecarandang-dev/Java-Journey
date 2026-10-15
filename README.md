@@ -7,3 +7,4 @@
 
 ### 🎯 Goals:
 - Learn the fundamentals of Java.
+- Build simple Java projects.
