@@ -8,3 +8,4 @@
 ### 🎯 Goals:
 - Learn the fundamentals of Java.
 - Build simple Java projects.
+- Practice writing clean and readable code.
